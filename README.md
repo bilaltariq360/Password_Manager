@@ -7,5 +7,5 @@ Features:
 1. Display all save passwords with site names
 2. Add new password with site names
 3. Delete saved password with site names
-4. Encryption of sites and passwords while save to file
+4. Encryption of sites and passwords while saving to file
 5. Decryption of sites and passwords while loading from file
