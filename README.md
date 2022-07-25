@@ -4,6 +4,8 @@ In this software you can store all your passwords. When you download this softwa
 
 Features:
 
-Display all save passwords with site names
-Add new password with site names
-Delete saved password with site names
+1. Display all save passwords with site names
+2. Add new password with site names
+3. Delete saved password with site names
+4. Encryption of sites and passwords while save to file
+5. Decryption of sites and passwords while loading from file
